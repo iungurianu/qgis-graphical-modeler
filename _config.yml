@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: QGIS-Graphical Modeler
+# description and keywords for meta tags
+description: "QGIS Graphical Modeler - Data and materials"
+keywords: "workshops, QGIS, graphical modeler, GIS, processing, jekyll"
